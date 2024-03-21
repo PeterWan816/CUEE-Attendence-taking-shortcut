@@ -24,8 +24,9 @@ if someone else sent you the code via insta-messaging app, you can utilise the <
 </ul>
 <h2>Known Bugs</h2>
 <ul>
-  <li>Share Sheet preview malfunction</li>
-  This is a bug on the Apple. This issue has been submitted to apple waiting to be fixed in future ios update as it was not affect when launched using the shortcut app.
+  <li><s>Share Sheet preview malfunction</s></li>
+  <s>This is a bug on the Apple. This issue has been submitted to apple waiting to be fixed in future ios update as it was not affect when launched using the shortcut app.</s>
+<br/> <b>bug has been fixed on IOS release 17.4 21E219</b>
 </ul>
 <h2>Pending Improvements</h2>
 <ul>
