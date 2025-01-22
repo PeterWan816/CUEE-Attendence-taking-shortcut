@@ -33,4 +33,5 @@ if someone else sent you the code via insta-messaging app, you can utilise the <
   <li>Automatic extrection for Lesson No.</li>
   <li>Accept clipboard as the code input</li>
   <li>Customising the Lecture Date and Toturial date on the setup page</li>
+  <li>Updates to manual selection of Lecture Section or Toturial Section</li>
 </ul>
